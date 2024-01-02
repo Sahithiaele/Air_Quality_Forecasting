@@ -56,6 +56,8 @@ The regression techniques implemented in this project include:
 ## Results
 
 For given test data with PM2.5-AVG as 123 and PM10-AVG as 95, the predicted AQI value falls under the 'Unhealthy' category.
+![image](https://github.com/Sahithiaele/Air_Quality_Forecasting/assets/134089299/8a155a44-b4c8-48f3-b89d-e19c3b876247)
+
 
 ![image](https://github.com/Sahithiaele/Air_Quality_Forecasting/assets/134089299/77a8bab1-ea73-415d-8422-11a36f4ba437)
 ![image](https://github.com/Sahithiaele/Air_Quality_Forecasting/assets/134089299/1d43310d-69b5-44a1-8050-a3675afa435e)
